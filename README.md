@@ -15,17 +15,23 @@ The goal of InboxIQ is to transform a cluttered inbox into a manageable one by a
 
 Priority Inbox:
 The Priority Inbox tab, showing AI-generated summaries and action buttons.
+
 ![Screen 1](InboxIQ_UI/Priority_Inbox_Section.png)
 
 Inbox Cleanup:
 The Cleanup tab, identifying low-priority read mail for easy deletion.
 
+![Screen 2(InboxIQ_UI/Inbox_Cleanup_Section.png)
 
 Unsubscribe Finder:	
 The Unsubscribe Finder, presenting a list of emails with direct unsubscribe links.
 
+![Screen 3](InboxIQ_UI/Unsubscribe_Finder_Section.png)
+
 Inbox Dashboard:
 The Dashboard, displaying charts and statistics about your email patterns.
+
+![Screen 4](InboxIQ_UI/Inbox_Dashboard_Section.png)
 
 **Technology Stack**
 
