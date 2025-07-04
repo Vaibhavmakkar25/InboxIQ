@@ -21,7 +21,7 @@ The Priority Inbox tab, showing AI-generated summaries and action buttons.
 Inbox Cleanup:
 The Cleanup tab, identifying low-priority read mail for easy deletion.
 
-![Screen 2(InboxIQ_UI/Inbox_Cleanup_Section.png)
+![Screen 2(InboxIQ_UI/Cleanup_Read_Mails_Section.png)
 
 Unsubscribe Finder:	
 The Unsubscribe Finder, presenting a list of emails with direct unsubscribe links.
