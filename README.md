@@ -1,9 +1,11 @@
 **InboxIQ: The Autonomous Email Manager**
+
 InboxIQ is a smart email management tool that uses the power of Google's Gemini LLM to help you take control of your Gmail inbox. It connects securely to your Gmail account, analyzes your emails, and provides intelligent tools to prioritize, clean up, and understand your email habits.
 
 The goal of InboxIQ is to transform a cluttered inbox into a manageable one by automating common tasks like identifying important messages, finding junk to delete, and making it easy to unsubscribe from promotional lists.
 
 **Key Features**
+
 🎯 Priority Inbox: Automatically scans your unread emails, uses AI to assign a priority score and category, and presents the 5 most critical messages that need your attention.
 🗑️ Inbox Cleanup: Finds the 5 lowest-priority read emails, allowing you to quickly archive or delete unimportant messages and reduce clutter.
 🔎 Unsubscribe Finder: Scans your recent inbox for promotional emails and newsletters, extracting the direct unsubscribe links so you can easily opt-out with a single click.
@@ -13,6 +15,7 @@ The goal of InboxIQ is to transform a cluttered inbox into a manageable one by a
 
 Priority Inbox:
 The Priority Inbox tab, showing AI-generated summaries and action buttons.
+![Screen 1](InboxIQ_UI/Priority_Inbox_Section.png)
 
 Inbox Cleanup:
 The Cleanup tab, identifying low-priority read mail for easy deletion.
@@ -25,6 +28,7 @@ Inbox Dashboard:
 The Dashboard, displaying charts and statistics about your email patterns.
 
 **Technology Stack**
+
 Backend: Python
 Web Framework: Gradio
 LLM: Google Gemini
