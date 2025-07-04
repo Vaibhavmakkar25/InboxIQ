@@ -1,0 +1,19 @@
+# --- Core Web Interface & Data Handling ---
+gradio
+pandas
+matplotlib
+
+# --- Google API Access ---
+# For Gmail API calls and authentication flow
+google-api-python-client
+google-auth-oauthlib
+
+# --- LLM (Gemini) Integration ---
+# For analyzing emails with Google's Gemini
+google-generativeai
+
+# --- Utilities ---
+# For parsing HTML content from emails
+beautifulsoup4
+# For loading environment variables like API keys from a .env file
+python-dotenv
